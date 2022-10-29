@@ -1,0 +1,111 @@
+.gez0w20 {
+    --b3bcnh: #e9eaf2;
+    --53yx82: #e0e9ee;
+    --19x1fwo: url(../assets/copyrigtw.fbd81b2a.png);
+    position: relative
+}
+
+.darken .gez0w20 {
+    --b3bcnh: #17181B;
+    --53yx82: #2e3036;
+    --19x1fwo: url(../assets/copyrigt.24adedf8.png)
+}
+
+.gez0w20 .gift-btn>svg {
+    font-size: .875rem
+}
+
+.gez0w20 .gift-box-wrap {
+    width: 20rem;
+    height: 30.3125rem;
+    background-color: var(--b3bcnh);
+    box-shadow: 0 2px 12px #0003;
+    padding: 10px 10px 25px;
+    border-radius: var(--border-radius);
+    position: absolute;
+    bottom: 2.5rem;
+    left: -18rem
+}
+
+.gez0w20 .gift-box-wrap .giphy-copyright {
+    width: 130px;
+    height: 15px;
+    background: var(--19x1fwo) no-repeat;
+    background-size: 100% auto;
+    position: absolute;
+    left: .625rem;
+    bottom: .625rem
+}
+
+.gez0w20 .gift-box-wrap:after {
+    content: "";
+    position: absolute;
+    bottom: -1.25rem;
+    right: .75rem;
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+    border-top-color: var(--b3bcnh)
+}
+
+.gez0w20 .gift-item {
+    width: 48%;
+    height: 80px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    -webkit-animation-delay: .5s;
+    animation-delay: .5s;
+    background-color: var(--53yx82);
+    -webkit-animation: cplaceholderShimmer-gez0w20 1.5s linear infinite;
+    animation: cplaceholderShimmer-gez0w20 1.5s linear infinite
+}
+
+@-webkit-keyframes cplaceholderShimmer-gez0w20 {
+    0% {
+        opacity: 1
+    }
+
+    70% {
+        opacity: .7
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes cplaceholderShimmer-gez0w20 {
+    0% {
+        opacity: 1
+    }
+
+    70% {
+        opacity: .7
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+.gez0w20 .gift-item .gift-img {
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    height: 100%
+}
+
+.sfu6ih3 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    height: 100%
+}

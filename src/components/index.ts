@@ -1,0 +1,10 @@
+export {default as Header} from "./Header";
+export {default as HeaderMobile} from "./HeaderMobile";
+export {default as HeaderButtons} from "./HeaderButtons";
+export {default as Footer} from "./Footer";
+export {default as Sidebar} from "./Sidebar";
+export {default as Banner} from "./Banner";
+export {default as SvgIcon} from "./SvgIcon";
+export {default as Tabbar} from "./Tabbar";
+export {default as GameShow} from "./GameShow";
+export {default as GameList} from './gameList'

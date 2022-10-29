@@ -1,0 +1,15 @@
+.sda20du {
+  padding-top: 1.875rem;
+  position: relative
+}
+
+.sda20du .page-search-enter {
+  margin-bottom: 1.875rem;
+  border: none
+}
+
+@media screen and (max-width: 621px) {
+  .sda20du {
+      padding:1.25rem .75rem 3.25rem
+  }
+}

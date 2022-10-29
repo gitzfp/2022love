@@ -1,0 +1,19 @@
+.wnrn3cs.wnrn3cs-enter-done.backdrop {
+    display: none;
+}
+
+.g4,
+.g5,
+.g6 {
+    .wnrn3cs.wnrn3cs-enter-done.backdrop {
+        display: block;
+    }
+}
+
+.Toastify__toast-container {
+    z-index: 200000;
+}
+
+.userMenuMini > div {
+    min-width: auto !important;
+}
